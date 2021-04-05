@@ -8,14 +8,13 @@ namespace WarriorApp
 {
     class Warrior
     {
-        // Define the Warriors properties
+        // define the getters and setters along with default values in case you do not provide one
         public string Name { get; set; } = "Warrior";
         public double Hp { get; set; } = 1000;
         public double Atk { get; set; } = 120;
         public double Block { get; set; } = 40;
 
-        // Always create a single Random instance and reuse
-        // it or you will get the same value over and over
+        // create a single rand instance to avoid value repeating over n over. Since this syncs based on system clock
         private static Random random = new Random();
 
         public Warrior(string name, double health = 0, double atkMax = 0, double blkMax = 0)
