@@ -1,0 +1,7 @@
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\bin\Debug\WarriorApp.exe.config
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\bin\Debug\WarriorApp.exe
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\bin\Debug\WarriorApp.pdb
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\obj\Debug\WarriorApp.csprojAssemblyReference.cache
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\obj\Debug\WarriorApp.csproj.CoreCompileInputs.cache
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\obj\Debug\WarriorApp.exe
+C:\Users\abganji\source\repos\WarriorApp\WarriorApp\obj\Debug\WarriorApp.pdb
